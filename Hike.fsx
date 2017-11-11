@@ -1,8 +1,8 @@
 ﻿//#load "Scripts/load-references-debug.fsx"
-#r "../packages/FSharp.Data.2.2.5/lib/net40/FSharp.Data.dll"
-#r "../packages/SharpKml.Core.2.1.3/lib/portable-net4+sl5+wp8+win8/SharpKml.dll"
-#r "../packages/FSharp.Charting.0.90.13/lib/net40/FSharp.Charting.dll"
-#load "../packages/FsLab.0.3.19/FsLab.fsx"
+#r "packages/FSharp.Data.2.2.5/lib/net40/FSharp.Data.dll"
+#r "packages/SharpKml.Core.2.1.3/lib/portable-net4+sl5+wp8+win8/SharpKml.dll"
+#r "packages/FSharp.Charting.0.90.13/lib/net40/FSharp.Charting.dll"
+#load "packages/FsLab.0.3.19/FsLab.fsx"
 
 open System
 open System.Globalization
