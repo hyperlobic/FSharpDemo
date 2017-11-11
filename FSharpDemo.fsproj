@@ -60,7 +60,6 @@
     <None Include="SyntaxIntro.fsx" />
     <None Include="Html.fsx" />
     <None Include="Hike.fsx" />
-    <None Include="Scratch.fsx" />
     <Compile Include="Program.fs" />
     <None Include="App.config" />
     <Content Include="packages.config" />
