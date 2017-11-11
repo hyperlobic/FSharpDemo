@@ -211,8 +211,8 @@ System.Diagnostics.Process.Start(path)
 ///////////////////////
 /// Write data to a database using the SqlClient TypeProvider
 
-#r "../packages/FSharp.Data.SqlClient.1.8.1/lib/net40/FSharp.Data.SqlClient.dll"
-#r "../packages/Microsoft.SqlServer.Types.10.50.1600.1/lib/net20/Microsoft.SqlServer.Types.dll"
+#r "packages/FSharp.Data.SqlClient.1.8.1/lib/net40/FSharp.Data.SqlClient.dll"
+#r "packages/Microsoft.SqlServer.Types.10.50.1600.1/lib/net20/Microsoft.SqlServer.Types.dll"
 
 open FSharp.Data
 open FSharp.Data.SqlClient
